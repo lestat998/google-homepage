@@ -2,7 +2,7 @@
 <html>
 <header>
 
-<title>hello this practis ahow you my page of Google</title>
+<title>My page of Google</title>
 
 </header>
 <body>
